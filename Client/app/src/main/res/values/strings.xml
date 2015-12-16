@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blank</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textTabTitle2">Νέα απόδειξη</string>
+    <string name="textTabTitle1">Ιστορικό</string>
+    <string name="textTabTitle3">Προσφορές</string>
+</resources>
